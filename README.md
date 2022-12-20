@@ -219,6 +219,6 @@ while True:
         print("Tidak ada menu! Ulangi lagi!")
 ```
 #### Output Tampilan Pilih Menu
-![image](https://github.com/AnggitaRisqiNC/Praktikum9/blob/main/screenshot/gambar/ke%206.png)
+![image](https://github.com/AnggitaRisqiNC/Praktikum9/blob/main/screenshot/gambar/ke%207.png)
 
 ## Finish
